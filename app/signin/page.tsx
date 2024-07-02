@@ -12,11 +12,11 @@ const SigninPage = () => {
     <div>
       
       <div className="text-white">
-       <div className=" bg-[#0e0e0e] p-5 m-10 rounded-3xl">
+       <div className=" bg-[#0e0e0e] max-x-7xl p-5 m-10 rounded-3xl">
         <div className="grid grid-cols-2">
             <div className="rounded-xl  mr-4 flex items-start justify-start bg-[#9464F8]">
 
-                <Image src="/administrateur-verifie-journaux-evenements-du-serveur_482257-80146.avif" alt="" width={400} height={400} className="rounded-s-xl sm:rounded-s-xl"/>
+                <Image src="/administrateur-verifie-journaux-evenements-du-serveur_482257-80146.avif" alt="" width={400} height={400} className="rounded-s-xl sm:rounded-s-xl size-full object-cover"/>
             </div>
            
          
